@@ -101,4 +101,4 @@ El generador de datos, los scripts de validación y parte de las consultas se de
 
 ## Cómo citar
 
-Pesántez Prado, M. D. (2026). *Metodología para diseñar y validar tableros de indicadores de seguridad de la información* [Trabajo Fin de Máster, Universidad Internacional de La Rioja]. https://github.com/USUARIO/TFM_Tablero_Seguridad
+Pesántez Prado, M. D. (2026). *Metodología para diseñar y validar tableros de indicadores de seguridad de la información* [Trabajo Fin de Máster, Universidad Internacional de La Rioja]. https://github.com/mdanipes/TFM_Tablero_Seguridad
