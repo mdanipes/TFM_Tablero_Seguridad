@@ -1,0 +1,12 @@
+,tablero_esperado,referencia,diferencia
+I01 Tickets,2037.0,2037.0,0.0
+I02 Incidentes,1054.0,1054.0,0.0
+I03 Solicitudes,983.0,983.0,0.0
+I04 Abiertos,15.0,15.0,0.0
+I05 Inc. prioridad alta o más,513.0,513.0,0.0
+I06 MTTR (h),47.05,47.18,-0.13
+I07 SLA (%),86.09,86.1,-0.01
+I08 Hallazgos,1127.0,1127.0,0.0
+I09 Abiertas,121.0,121.0,0.0
+I10 Críticas abiertas,8.0,8.0,0.0
+I11 Días remediación,42.04,42.04,0.0
